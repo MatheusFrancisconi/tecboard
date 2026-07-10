@@ -1,5 +1,5 @@
 import "./App.css";
-import { FormularioDeEvento } from "./components/FormularioDeEventos";
+import { FormularioDeEvento } from "./components/FormularioDeEventos/FormularioDeEventos";
 
 //props é um objeto
 function App() {
